@@ -1,0 +1,12 @@
+c:\users\melin_000\documents\visual studio 2015\Projects\Comic Store\Comic Store\bin\Debug\Comic Store.exe.config
+C:\Users\melin_000\documents\visual studio 2015\Projects\Comic Store\Comic Store\bin\Debug\Database1.mdf
+C:\Users\melin_000\documents\visual studio 2015\Projects\Comic Store\Comic Store\bin\Debug\Database1_log.ldf
+C:\Users\melin_000\documents\visual studio 2015\Projects\Comic Store\Comic Store\bin\Debug\Comic Store.exe
+C:\Users\melin_000\documents\visual studio 2015\Projects\Comic Store\Comic Store\bin\Debug\Comic Store.pdb
+C:\Users\melin_000\documents\visual studio 2015\Projects\Comic Store\Comic Store\obj\Debug\Comic Store.csprojResolveAssemblyReference.cache
+C:\Users\melin_000\documents\visual studio 2015\Projects\Comic Store\Comic Store\obj\Debug\Comic_Store.Properties.Resources.resources
+C:\Users\melin_000\documents\visual studio 2015\Projects\Comic Store\Comic Store\obj\Debug\Comic_Store.Stock.resources
+C:\Users\melin_000\documents\visual studio 2015\Projects\Comic Store\Comic Store\obj\Debug\Comic Store.csproj.GenerateResource.Cache
+C:\Users\melin_000\documents\visual studio 2015\Projects\Comic Store\Comic Store\obj\Debug\Comic Store.exe
+C:\Users\melin_000\documents\visual studio 2015\Projects\Comic Store\Comic Store\obj\Debug\Comic Store.pdb
+C:\Users\melin_000\documents\visual studio 2015\Projects\Comic Store\Comic Store\obj\Debug\Comic_Store.Cart.resources
